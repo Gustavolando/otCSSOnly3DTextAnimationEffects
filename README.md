@@ -2,7 +2,7 @@
 
 This is one of those nice and cool CSS effects you always see and get amazed.
 
-I practiced here 3D perspective, transition synchronization CSS vars in tags, rotation animation, gradients and a simple bice design composition.
+I practiced here 3D perspective, transition synchronization CSS vars in tags, rotation animation, gradients and a simple nice design composition.
 
 Synched HTML and CSS only code.
 
